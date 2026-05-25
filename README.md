@@ -29,7 +29,7 @@ Built with **Ollama (llama3.2)** — runs fully local, no API keys needed.
 ```bash
 # 1. Clone
 git clone https://github.com/Rampratap30/Retail-GENAI-Assistant.git
-cd Retail-AI-Assistant
+cd Retail-GENAI-Assistant
 
 # 2. Install dependencies
 pip3 install -r requirements.txt
