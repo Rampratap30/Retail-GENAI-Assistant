@@ -28,17 +28,17 @@ Built with **Ollama (llama3.2)** — runs fully local, no API keys needed.
 
 ```bash
 # 1. Clone
-git clone https://github.com/Rampratap30/Retail-GENAåI-Assistant.git
+git clone https://github.com/Rampratap30/Retail-GENAI-Assistant.git
 cd Retail-AI-Assistant
 
 # 2. Install dependencies
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # 3. Make sure Ollama is running with llama3.2
 ollama pull llama3.2
 
 # 4. Run
-python main.py
+python3 main.py
 ```
 
 ---
